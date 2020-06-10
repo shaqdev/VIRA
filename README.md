@@ -1,2 +1,2 @@
 # VIRA
-Visual Representation of Anything
+A tool that perfom Visual Representation for meaningful text.
